@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>POE_Task_1_Beta_Version___Client</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="POE Task 1- Beta Version">
+      <HintPath>..\..\POE Task 1- Beta Version\POE Task 1- Beta Version\bin\Debug\net5.0-windows\POE Task 1- Beta Version.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
